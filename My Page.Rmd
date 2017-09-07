@@ -1,7 +1,0 @@
----
-title: "My Page"
-author: "Emily Mitchell"
-date: "9/7/2017"
-output: html_document
----
-
