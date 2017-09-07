@@ -7,3 +7,5 @@ output: html_document
 
 * Something
 * Something else
+* I was using **Index** instead of **index**
+* Now it works :)
