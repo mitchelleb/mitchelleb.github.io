@@ -4,5 +4,5 @@ navbar:
   title: "My Page"
   left:
     - text: "Home"
-      href: index.html
+      href:index.html
       
