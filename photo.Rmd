@@ -1,0 +1,10 @@
+---
+title: "Photograph"
+author: "Emily Mitchell"
+output: html_document
+---
+
+```{r, echo=FALSE}
+knitr::include_graphics("IMG_0009.JPG")
+
+```
