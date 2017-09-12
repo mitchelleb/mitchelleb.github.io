@@ -1,9 +1,13 @@
 ---
 title: "My Page"
 author: "Emily Mitchell"
-date: "9/7/2017"
+date: "9/12/2017"
 output: html_document
 ---
 
-* Something
-* Something else
+
+*Bullet one
+
+*Bullet two
+
+*Bullet three
