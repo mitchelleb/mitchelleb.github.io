@@ -1,10 +1,9 @@
 ---
-title: "My Page"
-author: "Emily Mitchell"
+title: "Welcome to My Website!"
 output: html_document
 ---
 
-I am a student at Appalachian State University working towards a bachelors in mathematics. I love being outside and cuddling with my hairless cat, Milo!
+
 
 
 

@@ -1,9 +1,16 @@
-name: "my-webpage"
-output_dir: "."
+name: my-webpage
+output_dir: '.'
 navbar:
-  title: "Emily"
+  title: Emily Mitchell
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Photo"
-      href: photo.html
+  - text: Home
+    href: index.html
+  - text: About
+    href: About.html
+  - text: Photo
+    href: photo.html
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+

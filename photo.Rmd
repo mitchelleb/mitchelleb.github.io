@@ -1,6 +1,5 @@
 ---
-title: "Photograph"
-author: "Emily Mitchell"
+title: "My Kitty"
 output: html_document
 ---
 
