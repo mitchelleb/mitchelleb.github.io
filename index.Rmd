@@ -4,6 +4,6 @@ output: html_document
 ---
 
 
-
+I created this site for my STT3530 Data Science course at Appalachian State University. Throughout this site there is more information about me, projects I've completed, and much more! 
 
 

@@ -1,12 +1,11 @@
 ---
-title: "My Kitty"
+title: "Photos"
 output: html_document
 ---
+ Here you'll find pictures of some of the things I find most important in my life! A lot of the pictures are of my hairless cat, Milo.
 
 
-
-```{r, echo=FALSE}
+```{r, out.width = "400px",echo=FALSE}
+knitr::include_graphics("IMG-0173.JPG")
 knitr::include_graphics("IMG_0009.JPG")
-
-
 ```

@@ -3,4 +3,4 @@ title: "About Me"
 output: html_document
 ---
 
-I am a student at Appalachian State University working towards a bachelors in mathematics. I love being outside and cuddling with my hairless cat, Milo!
+I am a senior at Appalachian State University working towards a bachelors in mathematics. I will be graduating in May 2018 and hope to begin my career in data analytics in August. I currently work as a director for a non-profit summer camp located in Boone, NC. In my free time, I love being outside and cuddling with my hairless cat, Milo! 
