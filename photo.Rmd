@@ -6,6 +6,6 @@ output: html_document
 
 
 ```{r, out.width = "400px",echo=FALSE}
-knitr::include_graphics("IMG-0173.JPG")
-knitr::include_graphics("IMG_0009.JPG")
+knitr::include_graphics("Pictures of Milo/IMG-0173.JPG")
+knitr::include_graphics("Pictures of Milo/IMG_0009.JPG")
 ```
