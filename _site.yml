@@ -7,6 +7,8 @@ navbar:
     href: index.html
   - text: About
     href: About.html
+  - text: Resume
+    href: Resume.html
   - text: Photos
     href: photo.html
 output:

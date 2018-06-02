@@ -1,0 +1,70 @@
+---
+output: html_document
+---
+#Emily Mitchell
+
+6830 Poppy Hills Lane Apt 1236 Charlotte, NC 28226
+
+mitchelleb96@gmail.com
+
+919-641-1131
+
+##*Summary of Qualifications:*
+
+Recent first generation college graduate from Appalachian State University.  Looking for opportunities that utilize my knowledge from my degree in Mathematics and concentration in Life Sciences. Outgoing and a fast learner with attention to detail. Great at listening and collaborating with others in order to work efficiently, ensuring that the task at hand is completed to the best of my ability. 
+
+
+##*Education:*
+•	Appalachian State University, Boone NC:  2014-2018
+
+•	Bachelor of Science in Mathematics, Concentration in Life Sciences
+
+•	Experience with programming languages R and Python 
+
+•	Experience with Microsoft Office, Github, and Geometer’s Sketchpad
+
+##*Courses Related to Degree:*
+
+•	Statistical Data Analysis 
+
+•	Statistical Data Analysis II
+
+•	Computational Mathematics
+
+•	Linear Algebra
+
+•	Numerical Methods
+
+•	Computer Applications
+
+•	Mathematical Biology
+
+•	Data Science
+
+##*Experience:*
+
+
+####**Camp Director (May 2017-August 2018)**
+
+####**Camp Gray Rock - Foscoe, North Carolina**
+
+•	Duties: Hired and trained staff, scheduled and implemented camp events using Google Drive and Excel, created and maintained the Camp Gray Rock website, E-mail, and social media, facilitated a cooperative and considerate community environment.
+
+•	Originally hired as a lifeguard and counselor for the 2015-2017 summer camp seasons, but was offered the position of director May of 2017.
+
+•	Provided me with the opportunity to strengthen my skills in leadership, organization, and being adaptable.
+
+<center>
+####**Student Assistant: Mathematics  (October 2017 – May 2018)**
+</center>
+<center>
+####**Appalachian State University - Boone, North Carolina**
+
+</center>
+
+•	Duties: Collected data regarding research centers or institutes sponsored by colleges and universities in various states, performed data entry and data organization using Excel, trained new hires.
+
+•	Provided me with practical experience of working with data extraction and data management.
+
+•	Strengthened my professional abilities by helping me become a more efficient, communicable worker. 
+

@@ -3,4 +3,4 @@ title: "About Me"
 output: html_document
 ---
 
-I am a senior at Appalachian State University working towards a bachelors in mathematics. I will be graduating in May 2018 and hope to begin my career in data analytics in August. I currently work as a director for a non-profit summer camp located in Boone, NC. In my free time, I love being outside and cuddling with my hairless cat, Milo! 
+I recently graduated from Appalachian State University with a bachelors degree in Mathematics and a concentration in Life Sciences. My major and concentration are both due to my passion for research based learning and data analytics. I currently work as a director for a non-profit summer camp located in Boone, NC. In my free time, I love being outside and cuddling with my hairless cat, Milo! 
