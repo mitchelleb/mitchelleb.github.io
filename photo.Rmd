@@ -1,11 +1,11 @@
 ---
-title: "Photos"
+title: "Get to know me through pictures!"
 output: html_document
 ---
- Here you'll find pictures of some of the things I find most important in my life! A lot of the pictures are of my hairless cat, Milo.
-
 
 ```{r, out.width = "400px",echo=FALSE}
-knitr::include_graphics("Pictures of Milo/IMG-0173.JPG")
-knitr::include_graphics("Pictures of Milo/IMG_0009.JPG")
+knitr::include_graphics("Pictures/Canoe.JPG")
+knitr::include_graphics("Pictures/IMG-0173.JPG")
+knitr::include_graphics("Pictures/IMG_0009.JPG")
+
 ```

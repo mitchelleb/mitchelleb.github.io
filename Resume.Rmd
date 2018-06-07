@@ -1,6 +1,7 @@
 ---
 output: html_document
 ---
+
 #Emily Mitchell
 
 6830 Poppy Hills Lane Apt 1236 Charlotte, NC 28226
@@ -54,13 +55,10 @@ Recent first generation college graduate from Appalachian State University.  Loo
 
 •	Provided me with the opportunity to strengthen my skills in leadership, organization, and being adaptable.
 
-<center>
-####**Student Assistant: Mathematics  (October 2017 – May 2018)**
-</center>
-<center>
-####**Appalachian State University - Boone, North Carolina**
 
-</center>
+####**Student Assistant: Mathematics  (October 2017 – May 2018)**
+
+####**Appalachian State University - Boone, North Carolina**
 
 •	Duties: Collected data regarding research centers or institutes sponsored by colleges and universities in various states, performed data entry and data organization using Excel, trained new hires.
 

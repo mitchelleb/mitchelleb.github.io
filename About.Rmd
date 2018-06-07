@@ -3,4 +3,19 @@ title: "About Me"
 output: html_document
 ---
 
-I recently graduated from Appalachian State University with a bachelors degree in Mathematics and a concentration in Life Sciences. My major and concentration are both due to my passion for research based learning and data analytics. I currently work as a director for a non-profit summer camp located in Boone, NC. In my free time, I love being outside and cuddling with my hairless cat, Milo! 
+```{r, out.width = "400px",echo=FALSE, fig.align='center'}
+knitr::include_graphics("Pictures/AnotherGradpic.JPEG")
+```
+
+
+- I am a first generation college graduate from Appalachian State University.
+
+- I have a bachelors degree in Mathematics and a concentration in Life Sciences.
+
+- I currently work as a director for a non-profit summer camp, Camp Gray Rock, located in Boone, NC. 
+
+- I have a passion for helping youth and hope to someday be a foster parent.
+
+- I enjoy coding in R and love learning new tricks
+
+- In my free time, I love being outside and cuddling with my hairless cat, Milo! 
