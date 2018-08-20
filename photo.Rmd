@@ -2,10 +2,14 @@
 title: "Get to know me through pictures!"
 output: html_document
 ---
+<hr> 
 
 ```{r, out.width = "400px",echo=FALSE}
 knitr::include_graphics("Pictures/Canoe.JPG")
-knitr::include_graphics("Pictures/IMG-0173.JPG")
+knitr::include_graphics("Pictures/Grandfather.JPG")
+knitr::include_graphics("Pictures/Bike.JPG")
+knitr::include_graphics("Pictures/Waterfall.JPG")
+knitr::include_graphics("Pictures/football.JPG")
 knitr::include_graphics("Pictures/IMG_0009.JPG")
 
 ```

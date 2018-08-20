@@ -11,6 +11,9 @@ navbar:
     href: Resume.html
   - text: Photos
     href: photo.html
+  - text: Projects
+    href: Project01.html
+  
 output:
   html_document:
     theme: flatly
