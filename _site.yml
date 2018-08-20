@@ -9,10 +9,12 @@ navbar:
     href: About.html
   - text: Resume
     href: Resume.html
-  - text: Photos
-    href: photo.html
   - text: Projects
     href: Project01.html
+  - text: Photos
+    href: photo.html
+  - text: Links
+    href: Completed_Data_Camp.html
   
 output:
   html_document:
